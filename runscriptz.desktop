@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=runscriptz
+X-Python-2-Compatible=false
+X-Krita-Manual=Manual.html
+Name=RunScriptz
+Comment=will watch a folder to find py script in them, list them and let you run them with hotkey
